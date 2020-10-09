@@ -32,3 +32,6 @@ appsettings.Development.json
 
 # Azure generated files
 src/SMAPI.Web/Properties/PublishProfiles/*.pubxml
+
+# Windows Explorer files
+desktop.ini
